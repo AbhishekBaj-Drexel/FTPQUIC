@@ -1,0 +1,4 @@
+cargo run --bin quicrs -- client --address 127.0.0.1 --port 54321 --cert ./certs/ca.cert
+
+
+cargo run -- server --cert ./certs/server.crt --key ./certs/server.key
