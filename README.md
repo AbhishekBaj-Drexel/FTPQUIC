@@ -69,7 +69,6 @@ A set of keys and certificates is already provided in the `certs` directory. If 
 ## Extra Credits
 
 - Uploaded source code on GitHub
-- Demo of the FTP prototype: [https://youtu.be/Q8x3nu8e3vk](https://youtu.be/Q8x3nu8e3vk)
 - Used asynchronous tasks to handle multiple clients by creating a new task for each accepted connection.
-- Included a learning summary [https://github.com/satyamkumar2000/FTPOverQUIC/blob/main/learnings_summary.md](https://github.com/satyamkumar2000/FTPOverQUIC/blob/main/learnings_summary.md)
+- Included a learning summary.
 - Used systems programming language (Rust)
