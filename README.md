@@ -14,6 +14,9 @@ This repository provides a simple file transfer system over QUIC, allowing both 
 
 - **Rust**: Install Rust on your machine.
 - **OpenSSL**: Required if you want to generate custom keys and certificates.
+- **CMake**: If you encounter version-related build errors, you can force CMake to use an older policy level. For example:
+  ```sh
+  export CMAKE_POLICY_VERSION_MINIMUM=3.5
 
 ### Generating Custom Certificates
 
